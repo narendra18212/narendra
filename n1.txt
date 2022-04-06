@@ -1,1 +1,2 @@
-this is my new text file in r1
+this is my new text file 
+for maven project
